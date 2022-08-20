@@ -1,4 +1,5 @@
-### Hola, I'm Shishir Tambe! 👋:wave:
+### Hola, I'm Shishir Tambe! ![Hi](https://user-images.githubusercontent.com/93042473/185735502-2ed1a25e-a124-4da5-8096-6a9218af06a5.gif)
+
 
 - 🔭 I’m currently working on DevOps, ML/DL(trying to).
 - 🌱 I’m currently learning Java,Front-end development, keras and Kubernetes
