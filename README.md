@@ -1,4 +1,4 @@
-### Hola, I'm Shishir Tambe! 👋
+### Hola, I'm Shishir Tambe! 👋:wave:
 
 - 🔭 I’m currently working on DevOps, ML/DL(trying to).
 - 🌱 I’m currently learning Java,Front-end development, keras and Kubernetes
